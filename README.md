@@ -1,16 +1,15 @@
-### Hi there 👋
+### Hi there 👋, I'm Vladyslav
 
-<!--
-**halloweex/halloweex** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am Software Engineer Based in South Korea, Seoul
+👋 Welcome to my GitHub bio.
 
-Here are some ideas to get you started:
+✍️ I'm an experienced programmer(not a printer fixer) with several successful projects under my belt.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🇬 I'm based in South Korea. Curently living in Seoul
+
+🔊 I love dark mode, open source, and side projects.
+
+🖼️ When I'm not working, I like sleeping listening music.
+
+🤫 I like watching anime and films.
+
