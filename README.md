@@ -1,6 +1,6 @@
 ### Hi there 👋, I'm Vladyslav
 
-I am Software Engineer Based in South Korea, Seoul
+I am Analytics Engineer Based in South Korea, Seoul
 👋 Welcome to my GitHub bio.
 
 ✍️ I'm an experienced programmer(not a printer fixer) with several successful projects under my belt.
