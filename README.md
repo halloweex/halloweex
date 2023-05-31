@@ -9,7 +9,7 @@ I am Analytics Engineer Based in South Korea, Seoul
 
 🔊 I love dark mode, open source, and side projects.🧑‍💻
 
-🖼️ When I'm not working, I like sleeping listening music.
+🖼️ When I'm not working, I like sleeping and listening to music.
 
 🤫 I like watching anime and films.
 
